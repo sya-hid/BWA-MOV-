@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BWA MOV</string>
+    <string name="lewati_perkenalan">LEWATI PERKENALAN</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="no_playing">Now Playing</string>
+    <string name="now_playing_desc">"Lebih Mudah untuk mengetahui
+film yang sedang tayang"</string>
+    <string name="presale">Pre Sale</string>
+    <string name="presale_desc">"Tidak perlu khawatir ketinggalan
+update film ternaru"</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">"Gunakan E-wallet untuk
+transaksi tiket anda"</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="edit_nama">Name</string>
+    <string name="txv_nama">Name</string>
+    <string name="txv_email">Email Address</string>
+    <string name="edit_email">email</string>
+    <string name="photo">Photo</string>
+    <string name="txv_wellcome">Wellcome, </string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="txv_user">Syarif Hidayatullah</string>
+    <string name="simpan_lanjutkan">Simpan dan Lanjutkan</string>
+    <string name="txv_ewallet">IDR230.295</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="txv_comingsoon">Coming Soon</string>
+    <string name="txv_judul">Single</string>
+    <string name="txv_genre">Comedy</string>
+    <string name="txv_storyboard">Storyboard</string>
+    <string name="desc_storyboard">Ceritanya tentang anak cupu yang jomblo,
+dan adiknya lebih duluan menikah daripada dia.
+Sampai akhirny ketemu teman kosnya yang
+baru. dan mulailah timbul benih-benih cinta.</string>
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="who_played">Who\'s Played</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="txv_checkout">Checkout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
